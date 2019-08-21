@@ -1,8 +1,8 @@
 target/
-src/main/resources/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**
+!**/src/main/Extension/**
 !**/src/test/**
+src/main/resources/*
 
 ### STS ###
 .apt_generated
